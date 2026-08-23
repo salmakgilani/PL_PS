@@ -8,16 +8,16 @@
 
 _What was the hardest part of building this strategy, and how did you work through it?_
 
-> The hardest part for me was gauging the financials topic and understanding exactly what was expected from this part of the role.
+> The hardest part was getting a handle on the financials section — understanding exactly what depth and rigor were expected for this part of the role.
 
 ## Key learnings
 
 _A few surprising discoveries or insights you gained from the course overall._
 
-> I could leverage what I'd already learned in my Claude Code sessions here — automating the GitHub repo sync through Claude Code, and making sure I gave my own idea or perception on every topic first, saw how AI gave its point of view in response, and then pushed back or stress-tested it further. A few aspects of roadmap and strategy design were also worth pointing out that Debankur explained well with real-world examples.
+> I found I could apply skills from my Claude Code work directly here — automating the GitHub repo sync, and structuring each topic as a back-and-forth: sharing my own take first, seeing how the AI responded, then pushing back or stress-testing its reasoning further. A few of the roadmap and strategy concepts also landed because of the real-world examples Debankur walked through in class.
 
 ## "Aha!" moment
 
 _Your main "aha" moment during the project process._
 
-> The concepts and real-world examples were ones I could relate directly to my own project and organization structure. I'm currently trying to implement a few of these concepts at my workplace, and this project genuinely revealed a new way of looking at things.
+> The real-world examples were ones I could map directly onto my own project and organization. I'm now applying a few of these concepts at work, and going through this exercise genuinely changed how I look at those situations.

@@ -32,7 +32,7 @@ ___
 ## Repo structure
 
 ```
-PL_PS/
+Product-leadership-fable-growth-strategy/
 ├── README.md                              ← this dashboard
 ├── PROJECT-BRIEF.md                       ← the Fable scenario brief
 ├── 01-strategy/

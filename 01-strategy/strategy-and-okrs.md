@@ -9,7 +9,7 @@
 
 **Path:** _Fable Growth (B2C · retention + engagement) · Meridian Foundations (B2B · adoption + expansion) · my own initiative_
 
-_One line on why you picked it._
+Fable Growth, because it's a retention crisis born from the product's own success — a sharper strategic problem to work through than a straightforward growth or acquisition gap.
 
 ## 1. Playing to Win cascade
 

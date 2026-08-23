@@ -1,8 +1,8 @@
 # My Strategy: Product Leadership Final Project
 
-> My final project for Product School's **Product Leadership** certification. One scenario, **Fable Growth** (B2C) or **Meridian Foundations** (B2B), or my own instructor-approved initiative, taken from a board-ready product strategy to a complete business case across six in-class labs.
+> My final project for Product School's **Product Leadership** certification. Scenario: **Fable Growth** (B2C) — from a board-ready product strategy to a complete business case across the in-class labs.
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it something like `product-leadership-final`, and fill in one folder per deliverable as you go. This is an **individual project**: your work is yours alone.
+This is an **individual project**: your work is yours alone.
 
 ---
 
@@ -10,15 +10,13 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **Product Strategy One-Pager & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |
-| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ☐ | `02-roadmap/outcome-roadmap.md` |
-| 3 | **AI-Prototyped Product Solution** | · | ☐ | `03-prototype/prototype.md` |
-| 4 | **Alignment Plan** (stakeholder map + exec narrative) | M4 | ☐ | `04-alignment/alignment-plan.md` |
-| 5 | **Financial Model** (business case + kill criteria) | M5 | ☐ | `05-financials/financial-model.md` |
-| 6 | **Individual Insights** (reflection) | M6 | ☐ | `06-insights/individual-insights.md` |
-| ★ | **Final Project Presentation** (the deck you submit) | M6 | ☐ | `06-insights/final-presentation.md` |
+| 1 | **Product Strategy** — Playing to Win cascade + OKRs | M1 | ☑ | `01-strategy/strategy-and-okrs.md` |
+| 2 | **Outcome Roadmap** — multi-team roadmap + trade-off memo | M2 | ☑ | `02-roadmap/outcome-roadmap.md` |
+| 3 | **Team Charter** — What We Own + How We Decide | M3 | ☑ | `04-alignment/team-charter.md` |
+| 4 | **Financial Model** — business case + kill criteria | M5 | ☑ | `05-financials/financial-model.md` |
+| 5 | **Individual Insights** — friction, key learning, aha moment | M6 | ☑ | `06-insights/individual-insights.md` |
 
-> Module 3 (*Lead and Develop High-Performing Teams*) sharpens **how** you lead execution rather than producing a separate deck slide, bring those habits into every artifact above.
+> Module 3 (*Lead and Develop High-Performing Teams*) sharpens **how** you lead execution — Section 1 of the Team Charter file also captures a diagnosed team situation and the conversation plan for it.
 
 ## The strategy in one sentence
 
@@ -28,25 +26,24 @@ ___
 
 ## How to submit
 
-- Turn the deliverable files into your final deck (Google Slides or PDF). The quickest path: use the **Final Project Deliverables Template**, or paste your files into an AI tool like **Gamma** or **Canva** (see `06-insights/final-presentation.md`).
-- Submit your own copy to the LMS within **7 days** of your cohort ending.
+- Repo URL + final presentation (shared link or file upload to the learning platform).
+- Submit within **7 days** of cohort end.
 
 ## Repo structure
 
 ```
-product-leadership-final/
+PL_PS/
 ├── README.md                              ← this dashboard
+├── PROJECT-BRIEF.md                       ← the Fable scenario brief
 ├── 01-strategy/
-│   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs   ★ Deliverable 1
+│   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs        ★ Deliverable 1
 ├── 02-roadmap/
-│   └── outcome-roadmap.md                 ← M2: outcome roadmap + trade-off memo   ★ Deliverable 2
-├── 03-prototype/
-│   └── prototype.md                       ← AI-prototyped product solution         ★ Deliverable 3
+│   └── outcome-roadmap.md                 ← M2: outcome roadmap + trade-off memo        ★ Deliverable 2
 ├── 04-alignment/
-│   └── alignment-plan.md                  ← M4: stakeholder map + exec narrative    ★ Deliverable 4
+│   └── team-charter.md                    ← M3: team situation diagnosis + What We Own / How We Decide   ★ Deliverable 3
 ├── 05-financials/
-│   └── financial-model.md                 ← M5: business case + kill criteria       ★ Deliverable 5
+│   └── financial-model.md                 ← M5: business case + kill criteria            ★ Deliverable 4
 └── 06-insights/
-    ├── individual-insights.md             ← M6: friction, learnings, aha
-    └── final-presentation.md              ← M6: how to build & submit the deck      ★ Final submission
+    ├── individual-insights.md             ← M6: friction, learnings, aha                 ★ Deliverable 5
+    └── final-presentation.md              ← M6: how to build & submit the deck
 ```
